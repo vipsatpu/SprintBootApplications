@@ -6,7 +6,7 @@
 	<groupId>org.fineract</groupId>
 	<artifactId>Template-Service-WebApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>Template-Service-WebApp</name>
 	<description>Fineract MS UI</description>
 
